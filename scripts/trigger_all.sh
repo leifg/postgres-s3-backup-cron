@@ -7,7 +7,3 @@ echo "Backup HN Vanity stores"
 echo "Backup Release Ping stores"
 /scripts/backup_release_ping_eventstore.sh
 /scripts/backup_release_ping_readstore.sh
-
-echo "Backup Tagge stores"
-/scripts/backup_tagge_eventstore.sh
-/scripts/backup_tagge_readstore.sh
